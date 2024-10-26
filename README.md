@@ -1,6 +1,6 @@
 # Quash - Simple Shell Implementation in C 
 ## Overview  
-Quash (Quick Shell) is a custom shell program implemented in C, created to understand the fundamentals of shell functionality, including command execution, process handling, and inter-process communication. It supports essential shell features such as built-in commands, process management, I/O redirection, and piping, providing a straightforward way to explore the mechanics of shell operation. \
+Quash (Quick Shell) is a custom shell program implemented in C, created to understand the fundamentals of shell functionality, including command execution, process handling, and inter-process communication. It supports essential shell features such as built-in commands, process management, I/O redirection, and piping, providing a straightforward way to explore the mechanics of shell operation. 
 
 ## Design Choices
 ### 1. Command Parsing and Tokenization
